@@ -5,4 +5,4 @@ Made using Unity.
 
 [[Demo on Unity Play]](https://play.unity.com/fr/games/443a813f-620f-4286-a2c4-cc5356ec833e/mathematical-expression-renderer)
 
-![An example of an equation](https://victor.lepireau.fr/assets/images/mathExpressionRenderer.webp)
+![An example of an equation](thumbnail.webp)
